@@ -11,7 +11,6 @@ const friend ={
     firstName : 'joy',
     lastName : 'x',
     salary : 30000,
-
 }
 const friend2 ={
     firstName : 'hero',
